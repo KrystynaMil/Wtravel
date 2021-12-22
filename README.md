@@ -16,7 +16,7 @@
 
 ## Screenshots
 
-![Example screenshot](../../Desktop/Travel-app/img/homepage.jpg)
+![Example screenshot](https://github.com/KrystynaMil/Wtravel/blob/main/img/homepage.jpg)
 
 ## Technologies
 
